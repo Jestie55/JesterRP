@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to JesterRP!
 
-You can use the [editor on GitHub](https://github.com/Jestie55/JesterRP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+If you would like to donate to the server the link is https://paypal.me/TheJester5?locale.x=en_US feel free to help out the server! And also if you do donate a minimum of $5 you will get access to all VIP jobs and equipment!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is JesterRP?
 
-### Markdown
+JesterRP is a DarkRP server looking for nothing but fun and entertainment. Here at JesterRP we strive to give gamers there best experience in game. Any suggestions for the server are greatly appreciated. Please contact me in game as "Jestie" or any of the admins on duty. Thank you! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### How to become a admin.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+To become an admin in JesterRP you must meet the following
 
-- Bulleted
-- List
+#1 Must be At least 15 years of age.
+#2 Must be available on server at least 10 hours of the day.
+#3 Must have at least over 10 hours on the server.
+#4 Must have discord for communication.
 
-1. Numbered
-2. List
+If you happen to meet the following please contact me ingame as "Jestie" or any admin on duty for further instructions.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jestie55/JesterRP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### How to get access to VIP jobs and equipment
+To get access to these things you must donate a minimum of $10 to this link. https://paypal.me/TheJester5?locale.x=en_US Your donations are greatly appreciated and will be used to better the DarkRP server! 
